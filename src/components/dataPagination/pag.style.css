@@ -1,0 +1,26 @@
+.mainContent{
+    margin: auto;
+    width: 90%;
+    box-shadow: 0 1px 3px rgb(0,0,0,0.12) ;
+    
+}
+.mainContent h6{
+    text-align: left;
+    margin-left: 5px;
+}
+  
+.searchDiv{
+    display: flex;
+    align-items: start;
+    margin-left: 5px;
+    justify-content: space-between;
+}
+
+.tableHeader{
+    display: flex;
+    justify-content: space-between;
+}
+
+.showNumber{
+    margin-right: 5px;
+}

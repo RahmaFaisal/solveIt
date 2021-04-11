@@ -1,0 +1,32 @@
+.mainContent{
+    height: 100%;
+    /* font-size: 0.8vw; */
+    cursor: pointer;
+    overflow: auto;
+    
+    /* box-shadow: 0 1px 3px rgb(0,0,0,0.12) ; */
+}
+
+.mainContent td{
+    color: rgb(93, 82, 82);
+    text-align: left;
+}
+.mainContent th{
+  /* min-width: 100px; */
+  text-align: left;
+}
+.trHeight{
+    min-width: 100px;
+}
+.table thead th{
+    font-size: 14px;
+}
+
+.fixedtd{
+    position:absolute;
+}
+/*MediaQuerSstart*/
+@media (min-width:1400px){
+    th{font-size: 14px;}
+
+}

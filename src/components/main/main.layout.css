@@ -1,0 +1,4 @@
+.navbar-expand {
+    flex-flow: unset;
+    justify-content: flex-start;
+}
